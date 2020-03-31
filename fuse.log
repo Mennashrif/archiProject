@@ -1,0 +1,31 @@
+Running: G:\14.5\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o G:/archi_projects/milestone1_archi/tesst_isim_beh.exe -prj G:/archi_projects/milestone1_archi/tesst_beh.prj work.tesst 
+ISim P.58f (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "G:/archi_projects/milestone1_archi/regPackage.vhd" into library work
+Parsing VHDL file "G:/archi_projects/milestone1_archi/reg.vhd" into library work
+Parsing VHDL file "G:/archi_projects/milestone1_archi/muxPackage.vhd" into library work
+Parsing VHDL file "G:/archi_projects/milestone1_archi/mux.vhd" into library work
+Parsing VHDL file "G:/archi_projects/milestone1_archi/decPackage.vhd" into library work
+Parsing VHDL file "G:/archi_projects/milestone1_archi/dec.vhd" into library work
+Parsing VHDL file "G:/archi_projects/milestone1_archi/regFile.vhd" into library work
+Parsing VHDL file "G:/archi_projects/milestone1_archi/tesst.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package decpackage
+Compiling package regpackage
+Compiling package muxpackage
+Compiling architecture behavioral of entity dec [dec_default]
+Compiling architecture behavioral of entity reg [reg_default]
+Compiling architecture behavioral of entity mux [mux_default]
+Compiling architecture behavioral of entity regFile [regfile_default]
+Compiling architecture behavior of entity tesst
+Time Resolution for simulation is 1ps.
+Waiting for 2 sub-compilation(s) to finish...
+Compiled 14 VHDL Units
+Built simulation executable G:/archi_projects/milestone1_archi/tesst_isim_beh.exe
+Fuse Memory Usage: 29412 KB
+Fuse CPU Usage: 530 ms

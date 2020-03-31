@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "G:/archi_projects/milestone1_archi/tesst_isim_beh.exe" -prj "G:/archi_projects/milestone1_archi/tesst_beh.prj" "work.tesst" 

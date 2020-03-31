@@ -1,0 +1,5 @@
+work	"dec.vhd"
+work	"mux.vhd"
+work	"reg.vhd"
+work	"regFile.vhd"
+work	"regPackage.vhd"

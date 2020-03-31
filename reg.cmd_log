@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "G:/archi_projects/milestone1_archi/reg.xst" -ofn "G:/archi_projects/milestone1_archi/reg.syr" 
+xst -intstyle ise -ifn "G:/archi_projects/milestone1_archi/reg.xst" -ofn "G:/archi_projects/milestone1_archi/reg.syr" 
+xst -intstyle ise -ifn "G:/archi_projects/milestone1_archi/reg.xst" -ofn "G:/archi_projects/milestone1_archi/reg.syr" 
+xst -intstyle ise -ifn "G:/archi_projects/milestone1_archi/reg.xst" -ofn "G:/archi_projects/milestone1_archi/reg.syr" 
