@@ -51,3 +51,4 @@ xst -intstyle ise -ifn "G:/archi_projects/milestone1_archi/regFile.xst" -ofn "G:
 xst -intstyle ise -ifn "G:/archi_projects/milestone1_archi/regFile.xst" -ofn "G:/archi_projects/milestone1_archi/regFile.syr" 
 xst -intstyle ise -ifn "G:/archi_projects/milestone1_archi/regFile.xst" -ofn "G:/archi_projects/milestone1_archi/regFile.syr" 
 xst -intstyle ise -ifn "G:/archi_projects/milestone1_archi/regFile.xst" -ofn "G:/archi_projects/milestone1_archi/regFile.syr" 
+xst -intstyle ise -ifn "D:/first tearm/archi/archiProject/regFile.xst" -ofn "D:/first tearm/archi/archiProject/regFile.syr" 

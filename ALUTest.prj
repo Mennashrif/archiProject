@@ -1,0 +1,4 @@
+vhdl work "onebit_package.vhd"
+vhdl work "onebit_alu.vhd"
+vhdl work "alu_circuit.vhd"
+vhdl work "ALUTest.vhd"

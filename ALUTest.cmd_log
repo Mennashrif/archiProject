@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/first tearm/archi/archiProject/ALUTest.xst" -ofn "D:/first tearm/archi/archiProject/ALUTest.syr" 

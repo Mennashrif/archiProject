@@ -1,5 +1,5 @@
 ISim log file
-Running: G:\archi_projects\milestone1_archi\tesst_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb G:/archi_projects/milestone1_archi/tesst_isim_beh.wdb 
+Running: D:\first tearm\archi\archiProject\ALUTest_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb D:/first tearm/archi/archiProject/ALUTest_isim_beh.wdb 
 ISim P.58f (signature 0x7708f090)
 This is a Full version of ISim.
 Time resolution is 1 ps
@@ -7,9 +7,13 @@ Time resolution is 1 ps
 # wave add /
 # run 1000 ns
 Simulator is doing circuit initialization process.
+at 0 ps, Instance /alutest/uut/\ge(0)\/alu/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 Finished circuit initialization process.
-at 47 ps: Note: Test1 (/tesst/).
-at 47 ps: Note: Test2 (/tesst/).
-at 77 ps: Note: Test3 (/tesst/).
-at 77 ps: Note: Test4 (/tesst/).
-at 77 ps: Note: Test Complete (/tesst/).
+at 20 ns: Note: Test1 (/alutest/).
+at 40 ns: Note: Test2 (/alutest/).
+at 60 ns: Note: Test3 (/alutest/).
+at 170 ns: Note: Test4 (/alutest/).
+at 190 ns: Note: Test5 (/alutest/).
+at 210 ns: Note: Test6 (/alutest/).
+at 230 ns: Note: Test7 (/alutest/).
+at 231 ns: Note: Test Complete (/alutest/).

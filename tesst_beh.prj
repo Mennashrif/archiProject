@@ -1,8 +1,0 @@
-vhdl work "regPackage.vhd"
-vhdl work "reg.vhd"
-vhdl work "muxPackage.vhd"
-vhdl work "mux.vhd"
-vhdl work "decPackage.vhd"
-vhdl work "dec.vhd"
-vhdl work "regFile.vhd"
-vhdl work "tesst.vhd"
